@@ -1,3 +1,82 @@
 <resources>
-    <string name="app_name">RainbowBaby</string>
+    <string name="app_name">彩虹家园升级版</string>
+    <string name="ic_no_data">还没有数据～</string>
+    <string name="ic_no_net">网络连接失败～</string>
+
+    <string name="guide_enter">点击进入</string>
+
+    <string name="home_school">校园</string>
+    <string name="home_parenting">育儿</string>
+    <string name="home_find">发现</string>
+    <string name="home_mine">我</string>
+
+    <string name="school_class">我在上课</string>
+    <string name="school_bus_location">校车定位</string>
+    <string name="school_home_worker">家庭作业</string>
+    <string name="school_notice">校园公告</string>
+    <string name="school_photo">照片墙</string>
+    <string name="school_patriarch">家长群</string>
+
+    <string name="parenting_formation">育儿咨询</string>
+    <string name="parenting_answer_and_question">育儿问答</string>
+    <string name="parenting_expert_class">专家课堂</string>
+
+    <string name="find_public_channel">公共频道</string>
+    <string name="find_net_shop">网上商城</string>
+    <string name="find_near_kindergarten">附近幼儿园</string>
+    <string name="find_old_goods_shop">跳蚤市场</string>
+    <string name="find_near_shop">附近商户</string>
+
+    <string name="mine_enter_public_channel">入驻公共频道</string>
+    <string name="mine_my_camera">我的摄像机</string>
+    <string name="mine_living_service">直播服务</string>
+    <string name="mine_collect">收藏</string>
+    <string name="mine_setting">设置</string>
+    <string name="mine_user_feedback">用户反馈</string>
+    <string name="mine_about_us">关于我们</string>
+    <string name="mine_not_yet_enter">还未入驻商户</string>
+
+    <string name="login_forget_password">忘记密码?</string>
+    <string name="login_regist">立即注册</string>
+    <string name="login_select_method_login">选择登录方式</string>
+    <string name="login_login">登录</string>
+    <string name="login_please_input_your_account_number">请输入您的账号</string>
+    <string name="login_please_input_your_password">请输入密码</string>
+
+    <string name="regist_phone_num">手机号码</string>
+    <string name="regist_regist">注册</string>
+    <string name="regist_verification_code">验\t证\t码</string>
+    <string name="regist_please_input_phone_num">请输入手机号</string>
+    <string name="regist_please_input_account_num">请输入您的账号</string>
+    <string name="regist_please_input_verification_code">请输入验证码</string>
+    <string name="regist_get_verification_code">获取验证码</string>
+    <string name="regist_next">下一步</string>
+    <string name="regist_any_question">1.如有任何疑问，请拨打我们的客服电话</string>
+    <string name="regist_service_phone">2.客服电话：</string>
+    <string name="regist_service_phone_number"><u>025-57926721</u></string>
+    <string name="regist_set_password_title">设置密码</string>
+
+    <string name="reset_password">密\t\t\t\t码</string>
+    <string name="reset_password_again">确认密码</string>
+    <string name="reset_input_password">请输入密码</string>
+    <string name="reset_input_password_again">请再次输入密码</string>
+    <string name="reset_commit">提交</string>
+    <string name="reset_password_title">重置密码</string>
+    <string name="reset_forget_password_title">忘记密码</string>
+
+    <string name="about_us_web_address">官方网站：</string>
+    <string name="about_us_web_address_detail"><u>https://qychbb.com</u></string>
+    <string name="about_us_service_phone">服务热线：</string>
+    <string name="about_us_version">当前版本号：</string>
+    <string name="about_us_title">关于我们</string>
+
+
+    <string name="loading_loading">正在刷新...</string>
+    <string name="loading_pull">下拉刷新...</string>
+    <string name="loading_pull_up_for_update">放开刷新...</string>
+    <string name="loading_push">正在加载...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>

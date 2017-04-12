@@ -1,0 +1,31 @@
+<resources>
+
+    <!--公共长度，全局修改,以common开头进行定义-->
+    <dimen name="common_padding_length">12dp</dimen>
+    //控件距离屏幕两边的距离
+    <dimen name="common_line_thick_height">10dp</dimen>
+    //控件之间最大的间距
+    <dimen name="common_line_height">0.5dp</dimen>
+    //一般横线的高度
+
+    <!--字体的公共大小-->
+    <dimen name="font_title_size">16sp</dimen>
+    //一般横线的高度
+    <dimen name="font_common_content_size">14sp</dimen>
+    //一般横线的高度
+    <dimen name="font_common_small_size">12sp</dimen>
+    //一般横线的高度
+    <dimen name="font_16_size">16sp</dimen>
+    //不建议使用
+    <dimen name="font_15_size">15sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    //不建议使用
+
+    <!--全局高度-->
+    <dimen name="common_title_height">50dp</dimen>
+
+    <!--局部高度设置-->
+    <dimen name="home_select_btn_image_to_text_padding">2dp</dimen>
+</resources>

@@ -3,4 +3,26 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!--public background-->
+    <color name="common_bg_gray">#f7f7f7</color>
+    <color name="common_bg_write">#ffffff</color>
+    <color name="common_bg_black">#000000</color>
+
+    <!--line color-->
+    <color name="line_color_gray">#e8e8e8</color>//横线颜色
+    <color name="line_color_thick_gray">#e5e6e8</color>//10dp横线的颜色
+
+    <!--public font color-->
+    <color name="font_color_app_theme">#b6c94c</color>
+
+    <color name="font_color_write">#ffffff</color>
+    
+    <color name="font_color_gray">#999999</color>
+    <color name="font_color_puny_gray">#b4b4b4</color>
+    
+    <color name="font_color_black">#222222</color>
+    <color name="font_color_puny_black">#666666</color>
+
+
 </resources>
